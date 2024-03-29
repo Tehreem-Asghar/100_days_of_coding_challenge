@@ -1,0 +1,12 @@
+// Question 82: Find the Length of a String: Write a function that takes a string as an argument and returns the number of characters in the string.
+
+// Explain & TIP: The .length property of a string gives you the total number of characters it contains, helping you understand more about the data you're working with.
+
+
+// This function counts how many characters are in a string
+function lenghtOfString(name:string):number{
+    return name.length // return the number of character in the string
+}
+
+console.log(lenghtOfString("Tehreem"));
+console.log(lenghtOfString("Tehreem Asghar"));
