@@ -6,7 +6,7 @@
 // time to complete, like fetching data or timing events.
 // creat a promise
 let promise = new Promise((resolve) => {
-    // Use setTimeout method to run my code after 2 minutes
+    // Use setTimeout method to run my code after 2 second
     // And in this I call resolve parameter
     setTimeout(() => resolve("Hello, World!"), 2000);
 });
