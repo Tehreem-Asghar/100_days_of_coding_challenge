@@ -11,3 +11,6 @@ let name = "Ilya";
     
 // Attach click event listener to the button
 document.getElementById("DataTypes").addEventListener("click", types);
+
+
+
