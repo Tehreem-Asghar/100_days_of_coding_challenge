@@ -12,8 +12,8 @@ person = {
 console.log(person);
 //we can also use another mthod
 var course = {
-    course: 'html',
+    course: "html",
     fee: 5000,
-    confirm: true
+    confirm: true,
 };
 console.log(course);
