@@ -6,5 +6,4 @@ var student = {
         console.log("".concat(this.name, " Attend today class : ").concat(this.present));
     },
 };
-student.Action();
-console.log(student);
+student.Action(); // output : Tehreem Attend today class : true
